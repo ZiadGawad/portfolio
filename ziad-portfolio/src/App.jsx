@@ -1,6 +1,7 @@
 import './App.css'
 import Navbar from './components/Navbar/Navbar.jsx'
 import Hero from './components/Hero/Hero.jsx'
+import About from './components/About/About.jsx'
 
 function App() {
 
@@ -8,6 +9,7 @@ function App() {
     <>
       <Navbar/>
       <Hero/>
+      <About/>
     </>
   )
 }
