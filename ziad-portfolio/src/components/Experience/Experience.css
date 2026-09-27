@@ -1,0 +1,51 @@
+.experience {
+    padding: 0 80px;
+    min-height: 500px;
+    margin-top: 60px;
+}
+
+.experience-content {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+}
+
+.section-accent {
+    width: 60px;
+    height: 4px;
+    background-color: #ff6b00;
+}
+
+.experience-content h2 {
+    font-family: "Oswald", serif;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.experience-title {
+    font-family: "Oswald", serif;
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.experience-time {
+    font-family: "Source Serif 4", serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #b5b5b5;
+}
+
+.experience-description {
+    width: 550px;
+    font-family: "Source Serif 4", serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #b5b5b5;
+}
+
+.experience-skills {
+    font-family: "Source Serif 4", serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #b5b5b5;
+}
