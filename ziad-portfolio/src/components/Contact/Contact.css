@@ -1,0 +1,66 @@
+.contact {
+    padding: 0 80px;
+    min-height: 450px;
+}
+
+.contact-content {
+    display: flex;
+    flex-direction: column;
+    gap: 28px
+}
+
+.contact-title {
+    font-family: "Oswald", serif;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.contact-message {
+    font-family: "Source Serif 4", serif;
+    font-size: 28px;
+    font-weight: 400;
+    color: #d0d0d0;
+}
+
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    gap: 15px
+}
+
+.contact-email, .contact-phone  {
+    font-family: "Source Serif 4", serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.contact-email {
+    text-decoration: none;
+    transition: 0.2 ease;
+    width: fit-content;
+}
+
+.contact-github, .contact-linkedin {
+    font-family: "Oswald", serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #ffffff;
+    width: fit-content;
+
+    transition: 0.2 ease;
+}
+
+.contact-github:hover, .contact-linkedin:hover, .contact-email:hover {
+    color: #ff6b00;
+}
+
+.contact-footer {
+    font-family: "Source Serif 4", serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #707070;
+    
+    margin-left: auto;
+    margin-right: auto;
+}

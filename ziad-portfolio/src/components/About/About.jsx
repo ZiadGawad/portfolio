@@ -20,6 +20,8 @@ function About () {
                     <p>Software Engineering Department · Class of 2028</p>
                 </div>
 
+                <p className="about-skills-title">Skills</p>
+
                 <p className="about-skills">
                     C++ · JavaScript · React · SQL · Git · GitHub
                 </p>
