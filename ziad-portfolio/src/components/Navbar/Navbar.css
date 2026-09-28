@@ -5,6 +5,17 @@
     padding: 24px 80px;
     background: #0f0f0f;
     font-family: oswald;
+
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+
+    border-bottom: 1px solid #3a3a3a;
+    transition: 0.2s ease;
+}
+
+.navbar:hover {
+    border-bottom-color: #ff6b00;
 }
 
 .navbar-logo h1 {
@@ -14,13 +25,9 @@
     text-transform: uppercase;
     transition: 0.3s ease-in-out;
     cursor: default;
-    user-select: none;
-    border-bottom: 2px solid transparent;
+    user-select: none;;
 }
 
-.navbar-logo h1:hover {
-    border-color: #ff6b00;
-}
 
 .navbar-links {
     display: flex;
