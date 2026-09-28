@@ -19,7 +19,7 @@ function Projects() {
 
                         <span className="project-skills">C++ · OOP · Git · GitHub</span>
                         <span className="project-type">Personal Project</span>
-                        <a href="https://github.com/ZiadGawad/Food-Ordering-System">
+                        <a href="https://github.com/ZiadGawad/Food-Ordering-System" target="_blank">
                             VIEW ON GITHUB
                         </a>
                     </div>
@@ -34,7 +34,7 @@ function Projects() {
 
                         <span className="project-skills">C++ · Data Structures · BST  · Git · GitHub </span>
                         <span className="project-type">University Project</span>
-                        <a href="https://github.com/Anas4208/BST-DS-assignment">
+                        <a href="https://github.com/Anas4208/BST-DS-assignment" target="_blank">
                             VIEW ON GITHUB
                         </a>
                     </div>
@@ -52,7 +52,7 @@ function Projects() {
 
                         <span className="project-skills">C# · .NET · SQL Server · Docker · Kubernetes · RabbitMQ · gRPC </span>
                         <span className="project-type">Learning Project</span>
-                        <a href="https://github.com/ZiadGawad/.NET-Microservices-Project">
+                        <a href="https://github.com/ZiadGawad/.NET-Microservices-Project" target="_blank">
                             VIEW ON GITHUB
                         </a>
                     </div>
