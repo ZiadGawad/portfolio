@@ -9,7 +9,7 @@ function About () {
                 <h2 className="about-title">ABOUT</h2>
 
                 <p className="about-intro">
-                    I’m Ziad, a Software Engineering student at Cairo University.
+                    I’m Ziad Gawad, a Software Engineering student at Cairo University.
                     I enjoy building things, learning how systems work, 
                     and turning what I learn into real projects.
                 </p>

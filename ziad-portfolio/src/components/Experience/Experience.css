@@ -24,13 +24,13 @@
 
 .experience-title {
     font-family: "Oswald", serif;
-    font-size: 28px;
+    font-size: 30px;
     font-weight: 400;
 }
 
 .experience-time {
     font-family: "Source Serif 4", serif;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 400;
     color: #b5b5b5;
 }
@@ -38,14 +38,14 @@
 .experience-description {
     width: 550px;
     font-family: "Source Serif 4", serif;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 400;
     color: #b5b5b5;
 }
 
 .experience-skills {
     font-family: "Source Serif 4", serif;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 400;
     color: #b5b5b5;
 }

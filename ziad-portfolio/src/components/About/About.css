@@ -26,34 +26,34 @@
 .about-intro {
     width: 541px;
     font-family: "Source Serif 4", serif;
-    font-size: 20px;
+    font-size: 24px;
     font-weight: 400;
 }
 
 .about-university h3 {
     font-family: "Oswald", serif;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: bold;
     margin-bottom: 10px;
 }
 
 .about-university p {
-    font-family: "Oswald", serif;
-    font-size: 18px;
+    font-family: "Source Serif 4", serif;
+    font-size: 20px;
     font-weight: 400;
     color: #ff6b00;
 }
 
 .about-skills-title {
     font-family: "Oswald", serif;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: bold;
     margin-bottom: 0px;
 }
 
 .about-skills {
     font-family: "Source Serif 4", serif;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 400;
     color: #b5b5b5;
 }

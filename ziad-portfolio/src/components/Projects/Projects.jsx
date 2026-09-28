@@ -27,8 +27,7 @@ function Projects() {
 
                         <p>
                             University project developed collaboratively with
-                            a classmate using C++, a Binary Search Tree, SQL, 
-                            and GitHub.
+                            a classmate using C++, a Binary Search Tree and GitHub.
                         </p>
 
                         <span className="project-skills">C++ · Data Structures · BST  · Git · GitHub </span>
@@ -42,12 +41,12 @@ function Projects() {
                         <p>
                             A guided implementation of a .NET microservices application, 
                             built while learning REST APIs, 
-                            SQL Server, Entity Framework Core, Docker, 
+                            SQL Server, Docker, 
                             Kubernetes, RabbitMQ, gRPC, 
                             and service-to-service communication.
                         </p>
 
-                        <span className="project-skills">C# · ASP.NET Core · SQL Server · EF Core · Docker · Kubernetes · RabbitMQ · gRPC </span>
+                        <span className="project-skills">C# · .NET · SQL Server · Docker · Kubernetes · RabbitMQ · gRPC </span>
                         <span className="project-type">Learning Project</span>
                         <a href="#">VIEW ON GITHUB</a>
                     </div>
