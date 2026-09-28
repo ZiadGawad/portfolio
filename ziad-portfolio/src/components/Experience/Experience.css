@@ -2,6 +2,8 @@
     padding: 0 80px;
     min-height: 500px;
     margin-top: 60px;
+
+    scroll-margin-top: 100px;
 }
 
 .experience-content {

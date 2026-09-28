@@ -3,6 +3,8 @@
     padding: 0 80px;
     display: flex;
     align-items: center;
+
+    scroll-margin-top: 100px;
 }
 
 .about-content {
