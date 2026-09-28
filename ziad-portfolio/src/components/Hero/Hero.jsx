@@ -11,7 +11,11 @@ function Hero() {
           Software Engineering Student at Cairo University
         </p>
 
-        <button className="btn-view-work">VIEW MY WORK</button>
+        <a href="#projects">
+          <button className="btn-view-work">
+            VIEW MY WORK
+          </button>
+        </a>
 
         <p className="hero-description">
           Building software, learning every day, and turing ideas into working

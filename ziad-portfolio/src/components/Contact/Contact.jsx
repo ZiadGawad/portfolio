@@ -2,7 +2,7 @@ import "./Contact.css";
 
 function Contact() {
     return(
-        <section className="contact">
+        <section id="contact" className="contact">
             <div className="contact-content">
                 <div className="section-accent"></div>
 
@@ -12,14 +12,16 @@ function Contact() {
                 </p>
 
                 <div className="contact-info">
-                    <a className="contact-email" href="#">zeyad.gawad.205@gmail.com</a>
+                    <a className="contact-email" target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=zeyad.gawad.205@gmail.com">
+                        zeyad.gawad.205@gmail.com
+                    </a>
 
                     <p className="contact-phone">01118437824</p>
 
-                    <a className="contact-github" href="#" target="_blank">
+                    <a className="contact-github" href="https://github.com/ZiadGawad" target="_blank">
                         GitHub
                     </a>
-                    <a className="contact-linkedin" href="#" target="_blank">
+                    <a className="contact-linkedin" href="https://www.linkedin.com/in/zeyad-gawad/" target="_blank">
                         LinkedIn
                     </a>
                 </div>

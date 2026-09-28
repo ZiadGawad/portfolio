@@ -2,7 +2,7 @@ import "./Projects.css"
 
 function Projects() {
     return(
-        <section className="projects">
+        <section id="projects" className="projects">
             <h2>PROJECTS</h2>
 
             <div className="projects-content">
@@ -19,7 +19,9 @@ function Projects() {
 
                         <span className="project-skills">C++ · OOP · Git · GitHub</span>
                         <span className="project-type">Personal Project</span>
-                        <a href="#">VIEW ON GITHUB</a>
+                        <a href="https://github.com/ZiadGawad/Food-Ordering-System">
+                            VIEW ON GITHUB
+                        </a>
                     </div>
 
                     <div className="project-card">
@@ -32,7 +34,9 @@ function Projects() {
 
                         <span className="project-skills">C++ · Data Structures · BST  · Git · GitHub </span>
                         <span className="project-type">University Project</span>
-                        <a href="#">VIEW ON GITHUB</a>
+                        <a href="https://github.com/Anas4208/BST-DS-assignment">
+                            VIEW ON GITHUB
+                        </a>
                     </div>
 
                     <div className="project-card">
@@ -48,7 +52,9 @@ function Projects() {
 
                         <span className="project-skills">C# · .NET · SQL Server · Docker · Kubernetes · RabbitMQ · gRPC </span>
                         <span className="project-type">Learning Project</span>
-                        <a href="#">VIEW ON GITHUB</a>
+                        <a href="https://github.com/ZiadGawad/.NET-Microservices-Project">
+                            VIEW ON GITHUB
+                        </a>
                     </div>
                 </div>
 
