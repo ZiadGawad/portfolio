@@ -2,7 +2,7 @@ import "./Experience.css";
 
 function Experience() {
     return(
-        <section className="experience">
+        <section id="experience" className="experience">
             <div className="experience-content">
                 <div className="section-accent"></div>
                 
