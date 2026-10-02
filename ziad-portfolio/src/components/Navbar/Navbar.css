@@ -24,8 +24,11 @@
     color: #ffffff;
     text-transform: uppercase;
     transition: 0.3s ease-in-out;
-    cursor: default;
-    user-select: none;;
+    user-select: none;
+}
+
+.navbar-logo a {
+    text-decoration: none;
 }
 
 

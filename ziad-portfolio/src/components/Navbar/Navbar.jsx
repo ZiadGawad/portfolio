@@ -4,7 +4,7 @@ function Navbar() {
     return(
         <nav className="navbar">
             <div className="navbar-logo">
-                <h1>Ziad</h1>
+               <a href="#hero"> <h1>Ziad</h1> </a>
             </div>
 
             <div className="navbar-links">

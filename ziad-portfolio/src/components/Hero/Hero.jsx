@@ -3,7 +3,7 @@ import HeroProfile from "../../assets/ziadportfolio.png";
 
 function Hero() {
   return (
-    <section className="hero">
+    <section className="hero" id="hero">
       <div className="hero-content">
         <h1>HI, I'M ZIAD GAWAD</h1>
 
